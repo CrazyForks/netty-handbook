@@ -20,8 +20,6 @@
 
 # 课程地址
 
-腾讯课堂：[尚硅谷Netty视频教程](https://ke.qq.com/course/463900)
-
 bilibili：[尚硅谷Netty视频教程（2019发布）](https://www.bilibili.com/video/av76227904/)
 
 YouTube：[【韩顺平】尚硅谷Netty视频教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJH02M10mFnBW0yPRnLmRSMo)
